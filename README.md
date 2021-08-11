@@ -1,0 +1,2 @@
+# C07K
+CONSOLE.LOG(LIFE);
